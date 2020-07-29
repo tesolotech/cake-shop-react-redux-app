@@ -13,9 +13,9 @@ function App() {
     <Provider store={store}>
       <div className="App">
         <UserContainer />
-        {/* <IceCreamContainer />
+        <IceCreamContainer />
         <HooksCakeContainer />
-        <CakeContainer /> */}
+        <CakeContainer />
       </div>
     </Provider>
   );
